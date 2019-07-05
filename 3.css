@@ -1,0 +1,90 @@
+
+.home {
+    background-image: url(home.png);
+    background-repeat: no-repeat;
+    height: 1000px;
+    width: 700px;
+    margin-top: 10%;
+    margin-left: 40%;
+    
+    }
+
+.Fullname, .Password {
+
+    color: white;
+    text-align:  70px;
+    font-family: Calibri light;
+    font-size: 15px;
+    top: 13%;
+    left: 6%;
+    position: relative;
+    margin-top: 40px;
+    
+    }
+
+input[type=text], [type=password] {
+
+    background-color: #299FC0;
+    border: 1px solid #00FFFB;
+    height: 45Px;
+    width: 300px;
+    top: 100%;
+    left: 10%;
+    color: white;
+    font-size: 19px;
+  
+    }
+
+.Login {
+    border-radius: 5px;
+    height: 45px;
+    width: 300px;
+    background-color: #299fc0;
+    color: white;
+    border: 1px;
+    text-align: center;
+    font-family:calibri light;
+    font-size: 20px;
+    margin-top: 20%;
+    margin-left: 6%;
+    
+    left: 6%;
+    background-image: linear-gradient(to right, #299fc0 0%, #4527A0 51%, #299fc0 100%)
+    
+    }
+
+.Forgotten {
+    
+    position: relative;
+    top: 1%;
+    left: 15%;
+    color: white;
+    border: 1px;
+    font-family:calibri light;
+    font-size: 16px;
+    
+    }
+    
+.Need {
+
+    position: relative;
+    top: 12%;
+    left: 18.5%;
+    color: white;
+    border: 1px;
+    font-family:calibri light;
+    font-size: 16px;
+
+}
+
+.signup {
+
+    position: relative;
+    left: 23%;
+    top: 11%;
+    border: 1px;
+    font-family:calibri light;
+    font-size: 16px;
+   
+
+}

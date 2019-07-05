@@ -1,0 +1,42 @@
+
+.homescreen {
+  background-image: url(homescreen.png);
+  background-repeat: no-repeat;
+  height: 1000px;
+  width: 700px;
+  margin-top: 1%;
+  margin-left: 40%;
+  
+}  
+
+.SignUp {
+  border-radius: 5px;
+  height: 45px;
+  width: 300px;
+  background-color: #299fc0;
+  color: white;
+  border: 1px;
+  text-align: center;
+  font-family:calibri light;
+  font-size: 20px;
+  box-align: auto;
+  margin-top: 380px;
+  margin-left: 28px;
+  background-image: linear-gradient(to right, #299fc0 0%, #4527A0 51%, #299fc0 100%)
+  
+}
+ 
+.LogIn {
+  border-radius: 5px;
+  height: 45px;
+  width: 300px;
+  background-color: #299fc0;
+  color: white;
+  border: 1px;
+  text-align: center;
+  font-family: Calibri light;
+  font-size: 20px;
+  margin-left: 28px;
+  background-image: linear-gradient(to right, #299fc0 0%, #4527A0 51%, #299fc0 100%)
+  
+}

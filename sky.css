@@ -1,0 +1,653 @@
+
+/* sky.html */
+
+.sky {
+    background-image: url(skytravel.png);
+    background-repeat: no-repeat;
+    height: 1000px;
+    width: 700px;
+    position: relative;
+    top: 20%;
+    left: 40%;
+    
+  } 
+  
+.button1 {
+ 
+    background-color: #1C5767;
+    border: none;
+    height: 8%;
+    width: 20%;
+    font-family: ventura edding;
+    font-size: 35px;
+    border-radius: 0%;
+    color: white;
+    position: relative;
+    margin-top: 70%;
+    left: 5%;
+    
+}
+.button2 {
+ 
+  background-color: #1C5767;
+  border: none;
+  height: 11%;
+  width: 20%;
+  font-family: ventura edding;
+  font-size: 35px;
+  border-radius: 0%;
+  color: white;
+  position: relative;
+  left: 32.5%;
+  top: -55px;
+  
+}
+.button3 {
+  
+  background-color: #1C5767;
+  border: none;
+  height: 11%;
+  width: 20%;
+  font-family: ventura edding;
+  font-size: 35px;
+  border-radius: 0%;
+  color: white;
+  position: relative;
+  margin-top: 3%;
+  left: 6%;
+  
+  
+}
+.button4 {
+ 
+  background-color: #1C5767;
+  border: none;
+  height: 5%;
+  width:25%;
+  font-family: ventura edding;
+  font-size: 35px;
+  border-radius: 0%;
+  color: white;
+  position: relative;
+  top: -65px;
+  left: 30%;
+  
+}
+/* wag mo nang gagalawin */
+/* 4.html */
+
+.container {
+  
+  background-image: url(background.png);
+  background-repeat: no-repeat;
+  height: 1000px;
+  width: 700px;
+  top: 10%;
+  margin-left: 40%;
+
+}
+
+.circle1 {
+  
+  position: relative;
+  left: 85px;
+  top: 100px;
+  width: 200px;
+  height: 60px;
+
+}
+
+.travel {
+  background-repeat: no-repeat;
+  height: 1000px;
+  width: 700px;
+  left: -5px;
+  
+  }
+
+.enter {
+
+  left: 5%;
+  top: 14%;
+  position: relative;
+  word-spacing: 3px;
+  font-family: calibri light;
+  font-size: 23px;
+
+}
+
+.info {
+
+  color: black;
+  text-align:  70px;
+  font-family: Calibri light;
+  font-size: 18px;
+  top: 180px;
+  left: 35px;
+  position: relative;
+  word-spacing: 3px;
+  height: 90px;
+  
+  }
+
+input[type=text], [type=number] {
+
+  background-color: #299FC0;
+  opacity: 50%;
+  border: 0px;
+  height: 45Px;
+  width: 300px;
+  top: 100%;
+  left: 10%;
+  color: white;
+  font-size: 19px;
+  border-radius: 10px;
+
+  }
+
+.Confirm {
+  border-radius: 5px;
+  height: 45px;
+  width: 300px;
+  background-color: #299fc0;
+  color: white;
+  border: 1px;
+  text-align: center;
+  font-family:calibri light;
+  font-size: 20px;
+  box-align: auto;
+  background-image: linear-gradient(to right, #299fc0 0%, #4527A0 51%, #299fc0 100%)
+  
+  }
+
+  /* 5.html */
+
+  .circle2 {
+  
+    position: relative;
+    left: 85px;
+    top: 10px;
+    width: 200px;
+    height: 60px;
+  
+  }
+
+.imagescan, .qr {
+  position: relative;
+  top: 250px;
+  left: -17.5%;
+  width: 30%;
+  height: 20%;
+  
+}
+.container {
+  background-image: url(background.png);
+  background-repeat: no-repeat;
+  height: 1000px;
+  width: 700px;
+  top: 10%;
+  margin-left: 40%;
+  
+  }
+
+p {
+  color: black;
+  position: absolute;
+  top: 280px;
+  left: 9%;
+  font-family: calibri;
+  position: relative;
+}
+
+.Scan {
+  border-radius: 5px;
+  height: 45px;
+  width: 300px;
+  background-color: #299fc0;
+  color: white;
+  border: 1px;
+  text-align: center;
+  font-family:calibri light;
+  font-size: 20px;
+  box-align: auto;
+  position: relative;
+  left: 5.6%;
+  margin-top: 45%;
+  background-image: linear-gradient(to right, #299fc0 0%, #4527A0 51%, #299fc0 100%)
+  
+  }
+
+
+/* 6.html */
+
+.circle3 {
+  
+  position: relative;
+  left: 85px;
+  top: -350px;
+  width: 200px;
+  height: 60px;
+
+}
+.bp {
+
+  height: 50%;
+  width: 43%;
+  position: relative;
+  left: -24%;
+  top: 200px;
+
+}
+
+.print {
+  border-radius: 5px;
+  height: 45px;
+  width: 300px;
+  background-color: #299fc0;
+  color: white;
+  border: 1px;
+  text-align: center;
+  font-family:calibri light;
+  font-size: 20px;
+  box-align: auto;
+  position: relative;
+  left: -3.4%;
+  top: -90px;
+  background-image: linear-gradient(to right, #299fc0 0%, #4527A0 51%, #299fc0 100%)
+  
+  }
+
+
+
+
+/* car.html */
+
+
+.confirm {
+  border-radius: 5px;
+  height: 45px;
+  width: 300px;
+  background-color: #299fc0;
+  color: white;
+  border: 1px;
+  text-align: center;
+  font-family:calibri light;
+  font-size: 20px;
+  box-align: auto;
+  position: absolute;
+  top: 85%;
+  left: 46%;
+  text-decoration: none;
+  background-image: linear-gradient(to right, #299fc0 0%, #4527A0 51%, #299fc0 100%)
+}
+
+.containercar {
+  background-image: url(backgroundcar.png);
+  background-repeat: no-repeat;
+  height: 1000px;
+  width: 700px;
+  margin-top: 0%;
+  margin-left: 40%;
+  
+}
+h2{
+  font-family: calibri light;
+  position: absolute;
+  left: 60%;
+
+
+}
+
+/* 6-1 html */
+
+.download {
+  position: relative;
+  left: 3px;
+  top: -180px;
+  width: 250px;
+  height: 200px;
+
+
+}
+
+.circle3-1 {
+  
+  position: relative;
+  left: 85px;
+  top: 100px;
+  width: 200px;
+  height: 60px;
+
+}
+
+/* car-1.html & hotel-1.html*/
+
+.car { 
+  
+  position: relative;
+  font-family:calibri light;
+  word-spacing: 3px;
+  font-size: 38px;
+  left: 5%;
+  top: 10px;
+} 
+
+.car1 { 
+  
+  position: relative;
+  font-family:calibri light;
+  word-spacing: 3px;
+  font-size: 38px;
+  left: 7%;
+  top: 8%;
+  
+}
+.text {
+
+  position: relative;
+  font-family:calibri light;
+  word-spacing: 3px;
+  font-size: 20px;
+  left: 7%;
+  top: 9%;
+
+  }
+.text1 {
+
+  position: relative;
+  font-family:calibri light;
+  word-spacing: 3px;
+  font-size: 20px;
+  left: 7%;
+  top: 9%;
+
+  }
+
+.goto {
+
+  border-radius: 5px;
+  height: 45px;
+  width: 300px;
+  background-color: #299fc0;
+  color: white;
+  border: 1px;
+  text-align: center;
+  font-family:calibri light;
+  font-size: 20px;
+  box-align: auto;
+  position: relative;
+  top: 100px;
+  left: 5.7%;
+  text-decoration: none;
+  background-image: linear-gradient(to right, #299fc0 0%, #4527A0 51%, #299fc0 100%)
+
+  }
+
+  /* car.html */
+ 
+  .info1 {
+
+  position: relative;
+  top: 3%;
+  height: 100px;
+  font-family:calibri light;
+  font-size: 20px;
+  box-align: auto;
+  position: relative;
+  left: 5%;
+  }
+
+  .book {
+
+  border-radius: 5px;
+  height: 45px;
+  width: 295px;
+  background-color: #299fc0;
+  color: white;
+  border: 1px;
+  text-align: center;
+  font-family:calibri light;
+  font-size: 20px;
+  box-align: auto;
+  position: relative;
+  top: 20px;
+  left: 5.7%;
+  text-decoration: none;
+  background-image: linear-gradient(to right, #299fc0 0%, #4527A0 51%, #299fc0 100%)
+  }
+
+  /* HOTEL OR CAR NA SCREEN */
+
+.pick {
+
+  margin-top: 40px;
+  border-radius: 5px;
+  height: 50px;
+  width: 300px;
+  background-color: #299fc0;
+  color: white;
+  border: 1px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-family:calibri light;
+  font-size: 20px;
+  position: relative;
+  top: 300px;
+  left: 5.7%;
+  background-image: linear-gradient(to right, #299fc0 0%, #4527A0 51%, #299fc0 100%)
+  }
+
+  /* hotel.html */
+
+  .info2 {
+
+    position: relative;
+    top: 0%;
+    height: 80px;
+    font-family:calibri light;
+    font-size: 15px;
+    box-align: auto;
+    position: relative;
+    left: 5%;s
+    }
+
+  .infoL {
+
+    position: relative;
+    top: 0%;
+    height: 80px;
+    font-family:calibri light;
+    font-size: 15px;
+    box-align: auto;
+    position: relative;
+    left: 5%;
+    }
+
+    .infoG {
+
+      position: relative;
+      top: -8%;
+      height: 80px;
+      width: 150px;
+      font-family:calibri light;
+      font-size: 15px;
+      box-align: auto;
+      position: relative;
+      left: 5%;
+
+      }
+    
+    .infoR {
+
+    position: relative;
+    top: -8%;
+    height: 80px;
+    font-family:calibri light;
+    font-size: 15px;
+    box-align: auto;
+    position: relative;
+    left: 28%;
+    float: :right;
+    }
+
+    .infoM {
+
+      position: relative;
+      top: -15.9%;
+      height: 80px;
+      font-family:calibri light;
+      font-size: 15px;
+      box-align: auto;
+      position: relative;
+      
+      align-content: center;
+      color: black;
+      left: 28%;
+      width: 150px;
+      float: :right;
+
+      }
+
+    .date {
+
+      position: relative;
+      top: 0%;
+      height: 45px;
+      width: 140px;
+      font-family:calibri light;
+      font-size: 16px;
+      box-align: auto;
+      background-color: #299fc0;
+      align-content: center;
+      color: white;
+      border: none;
+      left: 0.3%;
+      border-radius: 8px;
+      
+      }
+      
+      .option {
+
+        position: relative;
+       
+        height: 45px;
+        width: 140px;
+        font-family:calibri light;
+        font-size: 16px;
+        box-align: auto;
+        background-color: #299fc0;
+        align-content: center;
+        color: white;
+        border: none;
+        left: 0.3%;
+        border-radius: 8px;
+        
+        }
+        
+    .book1 {
+
+      border-radius: 5px;
+      height: 45px;
+      width: 295px;
+      background-color: #299fc0;
+      color: white;
+      border: 1px;
+      text-align: center;
+      font-family:calibri light;
+      font-size: 20px;
+      box-align: auto;
+      position: relative;
+      top: -170px;
+      left: 5.5%;
+      text-decoration: none;
+      background-image: linear-gradient(to right, #299fc0 0%, #4527A0 51%, #299fc0 100%)
+      }
+
+      /* checkluggage.html */
+
+      .luggage { 
+  
+        position: relative;
+        font-family:calibri light;
+        word-spacing: 3px;
+        font-size: 35px;
+        left: 6%;
+        top: -450px;
+
+        }
+
+        .picture { 
+  
+          position: relative;
+          font-family:calibri light;
+          word-spacing: 3px;
+          font-size: 35px;
+          left: 5%;
+          top: 170px;
+          height: 500px;
+          width: 307px;
+
+          }
+
+          /* checkbaggage.html */
+
+          .baggage { 
+  
+            position: relative;
+            font-family:calibri light;
+            word-spacing: 3px;
+            font-size: 35px;
+            left: 6%;
+            top: -450px;
+    
+            }
+
+            /* flightstatus.html */
+
+            .picture1 { 
+  
+              position: relative;
+              font-family:calibri light;
+              word-spacing: 3px;
+              font-size: 35px;
+              left: 4.8%;
+              top: 170px;
+              height: 200px;
+              width: 310px;
+    
+              }
+              .picture2 { 
+  
+                position: relative;
+                font-family:calibri light;
+                word-spacing: 3px;
+                font-size: 35px;
+                left: 4.8%;
+                top: 170px;
+                height: 350px;
+                width: 310px;
+      
+              }
+
+              h1 {
+                font-family: calibri light;
+                position: absolute;
+                left: 45%;
+                top: 10%;
+              
+              
+              }
+
+              .view {
+
+                text-decoration: none;
+                color: black;
+                top: 200px;
+                margin-left: 0%;
+                text-decoration-color: black;
+                font-family: calibri light;
+                font-size: 20px;
+                
+
+              }
